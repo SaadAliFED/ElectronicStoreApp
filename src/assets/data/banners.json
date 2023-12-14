@@ -1,0 +1,8 @@
+[
+    { "title": "New Laptops", "subtitle": "Now starting at $1299", "image": "https://images.unsplash.com/photo-1499951360447-b19be8fe80f5?ixlib=rb-0.3.5&s=a8ef3fd4a48693a0620b614a6209b687&auto=format&fit=crop&w=750&q=80" },
+    { "title": "New mobile phone", "subtitle": "Special for today", "image": "https://images.unsplash.com/photo-1498661705887-3778d9ecb4ff?ixlib=rb-0.3.5&s=f51f276113011f5dc3020416e13e5cb6&auto=format&fit=crop&w=550&q=80" },
+    { "title": "Watch collection", "subtitle": "Special for today", "image": "https://images.unsplash.com/photo-1463820048975-a3b50e6d991d?ixlib=rb-0.3.5&s=6cfe9709e4c45ab8b4f875c84a2746ed&auto=format&fit=crop&w=500&q=80" },
+    { "title": "hot sale", "subtitle": "New Arrivals On Sale", "image": "assets/images/mobile/m2.jpg" },
+    { "title": " for you", "subtitle": "Now starting at $89", "image": "assets/images/mobile/m3.jpg" },    
+    { "title": "Popular  brands", "subtitle": "Now starting at $1799", "image": "assets/images/mobile/m1.jpg" }
+]
