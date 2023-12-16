@@ -15,7 +15,7 @@ export function translateFactory() {
   imports: [
     AppModule,
     ServerModule,
-    FlexLayoutServerModule,
+    // FlexLayoutServerModule,
     TranslateModule.forRoot({
       loader: {
         provide: TranslateLoader,
